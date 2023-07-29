@@ -1,3 +1,3 @@
-module Excuses
+module ExcusesApi
   VERSION = "0.1.0"
 end
